@@ -6,6 +6,8 @@
 Welcome to the Jasprit Bumrah Fan Website — a visually stunning, interactive tribute dedicated to India’s “Yorker King.”
 This project is a fan-made creation designed to celebrate Jasprit Bumrah’s journey, highlight his cricketing excellence, and demonstrate modern web design using Bootstrap 5 and Tailwind CSS.
 
+
+
 🏏 Project Overview
 
 
@@ -77,9 +79,8 @@ Vikash Bhardwaj
 
 GitHub: 
 
-Email: [your-email@example.com]
+Email: Vikashbhardwaj01991@gmail.com
 
-Portfolio: [your-portfolio-link] (optional)
 
 ⚖️ License & Disclaimer
 This website is created for educational and fan tribute purposes only.
